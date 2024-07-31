@@ -18,3 +18,5 @@ Instruções:
 - Consuma o Contexto: Crie um componente AddToFavorites.jsx que consuma o contexto FavoritesContext e permita ao usuário adicionar itens à lista de favoritos.
 
 - Exiba os Favoritos: Crie um componente FavoritesList.jsx que consuma o contexto FavoritesContext e exiba os itens favoritos do usuário.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/favorites-context-reactjs/
